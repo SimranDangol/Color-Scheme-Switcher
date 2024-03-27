@@ -1,0 +1,36 @@
+h4{
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    text-align: center;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px; 
+    margin: 5px;
+    border: 1px solid #000;
+    height: 65px;
+    border-radius: 2px;
+}
+h5{
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#grey{
+    background-color: gray;
+}
+#white{
+    background-color: white;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#red{
+    background-color: red;
+}
